@@ -1,4 +1,4 @@
 package com.example.module03_basicgui_db_interface;
 
-public class SplashScreen {
+public class SplashScreenController {
 }
